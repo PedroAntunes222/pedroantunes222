@@ -32,7 +32,9 @@ Estudante e desenvolvedor de software.
   
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
+</div>
   
+<div align="center">
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=282828">
   
