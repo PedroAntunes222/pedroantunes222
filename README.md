@@ -24,10 +24,10 @@ Estudante e desenvolvedor de software.
 <Br>
 
 <div align="center">
-  <!-- html -->
+  <!-- HTML -->
   <img src="https://img.shields.io/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=282828">
   
-  <!-- css -->
+  <!-- CSS -->
   <img src="https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css3&logoColor=2965f1&labelColor=282828">
   
   <!-- JavaScript -->
@@ -39,7 +39,7 @@ Estudante e desenvolvedor de software.
   <!-- React -->
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
   
-  <!-- sass -->
+  <!-- SASS -->
   <img src="https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&logo=sass&logoColor=cc6699&labelColor=282828">
   
   <!-- SpringBoot -->
@@ -50,8 +50,8 @@ Estudante e desenvolvedor de software.
 
 <p align="center">
   <a href="https://github.com/PedroAntunes222" target="_blank">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroAntunes222&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroAntunes222&layout=compact&langs_count=8&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroAntunes222&show_icons=true&theme=omni&include_all_commits=true&count_private=true" align = "center"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroAntunes222&layout=compact&langs_count=8&theme=omni" align = "center"/>
   </a>
 </p>
 
