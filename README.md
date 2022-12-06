@@ -65,7 +65,7 @@ Estudante e desenvolvedor de software.
 
 <div align="center">
 
-  <a href="https://github.com/PedroAntunes222/frontend-ListaLeitura" target="_blank">
+  <a href="https://github.com/PedroAntunes222/EstanteVirtual" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=frontend-ListaLeitura&theme=algolia" />
   </a>
 
