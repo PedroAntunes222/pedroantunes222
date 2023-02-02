@@ -80,3 +80,23 @@ Estudante e desenvolvedor de software.
   </a>
 
 </div>
+
+## Projetos FrontEnd
+    
+<Br>
+    
+<div align="center">
+
+  <a href="https://github.com/PedroAntunes222/RPG-ToDoList-Reactjs" target="_blank">
+   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=backend-ListaLeitura&theme=algolia" />
+  </a>
+    
+  <a href="https://github.com/PedroAntunes222/Weather-Angular" target="_blank">
+   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=frontend-ListaLeitura&theme=algolia" />
+  </a>
+
+  <a href="https://github.com/encortonado/PetLife-TCC-UNIP" target="_blank">
+   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=frontend-ListaLeitura&theme=algolia" />
+  </a>
+    
+</div>
