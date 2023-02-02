@@ -78,6 +78,10 @@ Estudante e desenvolvedor de software.
   <a href="https://github.com/PedroAntunes222/backend-ListaLeitura" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=backend-ListaLeitura&theme=algolia" />
   </a>
+  
+  <a href="https://github.com/PedroAntunes222/AppListaLeitura" target="_blank">
+   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=AppListaLeitura&theme=algolia" />
+  </a>
 
 </div>
 
@@ -94,8 +98,6 @@ Estudante e desenvolvedor de software.
   <a href="https://github.com/PedroAntunes222/Weather-Angular" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=Weather-Angular&theme=algolia" />
   </a>
-    
-  <Br>
     
   <a href="https://github.com/encortonado/PetLife-TCC-UNIP" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=encortonado&repo=PetLife-TCC-UNIP&theme=algolia" />
