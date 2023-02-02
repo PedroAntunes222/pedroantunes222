@@ -62,9 +62,13 @@ Estudante e desenvolvedor de software.
 ## Projetos FullStack
 
 <Br>
-
+    
 <div align="center">
-
+    <a hef="https://jade-dasik-55b7ee.netlify.app/"> Veja em funcionamento! </a>
+</div>
+    
+<div align="center">
+    
   <a href="https://github.com/PedroAntunes222/EstanteVirtual" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=frontend-ListaLeitura&theme=algolia" />
   </a>
