@@ -63,9 +63,9 @@ Estudante e desenvolvedor de software.
 
 <Br>
     
-<div align="center">
+<!-- <div align="center">
     <a hef="https://jade-dasik-55b7ee.netlify.app/"> Veja em funcionamento! Acesse https://jade-dasik-55b7ee.netlify.app/ </a>
-</div>
+</div> -->
     
 <Br>
     
