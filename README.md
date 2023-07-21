@@ -64,7 +64,7 @@ Estudante e desenvolvedor de software.
 <Br>
     
 <div align="center">
-    <a hef="https://jade-dasik-55b7ee.netlify.app/"> Veja a versão Demo funcionamento! Acesse https://jade-dasik-55b7ee.netlify.app/ </a>
+    <a hef="https://jade-dasik-55b7ee.netlify.app/"> Veja a versão Demo em funcionamento! Acesse https://jade-dasik-55b7ee.netlify.app/ </a>
 </div>
     
 <Br>
@@ -78,6 +78,8 @@ Estudante e desenvolvedor de software.
   <a href="https://github.com/PedroAntunes222/backend-ListaLeitura" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=backend-ListaLeitura&theme=algolia" />
   </a>
+  
+  <Br>
 
   <a href="https://github.com/PedroAntunes222/sistema_escolar" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=sistema_escolar&theme=algolia" />
