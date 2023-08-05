@@ -78,12 +78,6 @@ Estudante e desenvolvedor de software.
   <a href="https://github.com/PedroAntunes222/backend-ListaLeitura" target="_blank">
    <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=backend-ListaLeitura&theme=algolia" />
   </a>
-  
-  <Br>
-
-  <a href="https://github.com/PedroAntunes222/sistema_escolar" target="_blank">
-   <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=PedroAntunes222&repo=sistema_escolar&theme=algolia" />
-  </a>
 
 </div>
 
